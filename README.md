@@ -9,7 +9,7 @@ Detects water conductivity and triggers a buzzer alarm using a 2N7000 MOSFET as 
 - 5V Buzzer
 - LED indicator
 - Resistors (10mΩ,6.8kΩ) 
-- 1nf capacitor & jack
+- 1nf capacitor & DC jack
 
 ## Tools Used:
 - KiCad 9
@@ -18,6 +18,7 @@ Detects water conductivity and triggers a buzzer alarm using a 2N7000 MOSFET as 
 - /schematic - pdf export and schematic
 - /kicad - KiCad project file
 - /gerbers - Manufacturing files ready to be fabricated
+- .png of the 3D representation
 
 ## Status:
-First KiCad project - complete workworkflow from schematic to gerber generation. Learning project.
+First KiCad project - complete workflow from schematic to gerber generation. Learning project.
